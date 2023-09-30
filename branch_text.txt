@@ -1,1 +1,1 @@
-Creating a branch with a text file in it
+Creating a branch with a text file in it.
